@@ -317,7 +317,7 @@ function check(ary, nextary) {
 	}
 }
 
-// checkt ob der spieler won hat
+// check if the player has won or not
 
 function hastduwon() {
 	if (third.length == 4) {
