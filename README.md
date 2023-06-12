@@ -1,3 +1,4 @@
+![Img1](https://github.com/ShaiikhAbdullah/Restricted-Tower-Of-Hanoi/assets/93272893/e9dc23e3-ec95-4942-9997-b8331eb7393f)
 # Restricted-Tower-Of-Hanoi
 The Restricted Tower of Hanoi is a classic mathematical puzzle/game that consists of three rods and a set of different-sized disks. The objective of the game is to move the entire stack of disks from one rod to another, adhering to the following rules:
 
@@ -19,4 +20,3 @@ The minimum number of moves required to transfer all the disks from the starting
 Constraints:
  - The number of disks, N, is a positive integer.
  - The configuration of the rods is valid, meaning the disks are initially placed in decreasing order of size on the starting rod, and the    other two rods are empty.
-
