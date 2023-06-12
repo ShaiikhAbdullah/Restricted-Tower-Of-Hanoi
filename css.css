@@ -248,3 +248,9 @@ body {
 	height: 50px;
 	width: 140px;
 }
+
+#github {
+	top: 482px;
+    position: absolute;
+    left: 10px;
+}
